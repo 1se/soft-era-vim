@@ -33,8 +33,8 @@ hi SignColumn guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NO
 hi IncSearch guifg=NONE ctermfg=NONE guibg=#eeaabe ctermbg=217 gui=underline cterm=underline
 hi LineNr guifg=#e2d1d1 ctermfg=252 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi MatchParen guifg=#82b4e3 ctermfg=110 guibg=NONE ctermbg=NONE gui=bold cterm=bold
-hi ModeMsg guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
-hi MoreMsg guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
+hi ModeMsg guifg=#414141 ctermfg=9 guibg=NONE ctermbg=10 gui=NONE cterm=NONE
+hi MoreMsg guifg=#414141 ctermfg=9 guibg=NONE ctermbg=10 gui=NONE cterm=NONE
 hi NonText guifg=#948484 ctermfg=102 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Normal guifg=#414141 ctermfg=181 guibg=#fafafa ctermbg=255 gui=NONE cterm=NONE
 hi PMenu guifg=#a29acb ctermfg=140 guibg=#eceafa ctermbg=255 gui=NONE cterm=NONE
@@ -53,11 +53,11 @@ hi StatusLineNC guifg=#ffffff ctermfg=9 guibg=#a29acb ctermbg=10 gui=NONE cterm=
 hi TabLine guifg=#ffffff ctermfg=9 guibg=#a29acb ctermbg=10 gui=NONE cterm=NONE
 hi TabLineFill guifg=#ffffff ctermfg=9 guibg=#a29acb ctermbg=10 gui=NONE cterm=NONE
 hi TabLineSel guifg=#ffffff ctermfg=9 guibg=#b4addf ctermbg=10 gui=NONE cterm=NONE
-hi Title guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
+hi Title guifg=#414141 ctermfg=9 guibg=NONE ctermbg=10 gui=NONE cterm=NONE
 hi Visual guifg=NONE ctermfg=NONE guibg=#eceafa ctermbg=255 gui=NONE cterm=NONE
-hi VisualNOS guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
-hi WarningMsg guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
-hi WildMenu guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
+hi VisualNOS guifg=#414141 ctermfg=9 guibg=NONE ctermbg=10 gui=NONE cterm=NONE
+hi WarningMsg guifg=#414141 ctermfg=9 guibg=NONE ctermbg=10 gui=NONE cterm=NONE
+hi WildMenu guifg=#ffffff ctermfg=9 guibg=#b4addf ctermbg=10 gui=NONE cterm=NONE
 hi Comment guifg=#999999 ctermfg=254 gui=NONE cterm=NONE
 hi Constant guifg=#414141 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi String guifg=#414141 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

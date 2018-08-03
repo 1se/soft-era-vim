@@ -2,6 +2,8 @@
 
 ### syntax theme for [Vim](https://www.vim.org/)
 
+## This is a slightly edited version of the theme with more high contrast colours!
+
 🌸 Light pastel syntax theme for cozy, cute coding & typing. 🌱
 
 ![soft era syntax theme screenshot](screenshot.jpg)

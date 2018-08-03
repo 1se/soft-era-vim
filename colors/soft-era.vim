@@ -36,7 +36,7 @@ hi MatchParen guifg=#82b4e3 ctermfg=110 guibg=NONE ctermbg=NONE gui=bold cterm=b
 hi ModeMsg guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
 hi MoreMsg guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
 hi NonText guifg=#948484 ctermfg=102 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Normal guifg=#414141 ctermfg=181 guibg=#f9f5f5 ctermbg=255 gui=NONE cterm=NONE
+hi Normal guifg=#414141 ctermfg=181 guibg=#fafafa ctermbg=255 gui=NONE cterm=NONE
 hi PMenu guifg=#a29acb ctermfg=140 guibg=#eceafa ctermbg=255 gui=NONE cterm=NONE
 hi PMenuSel guifg=#a29acb ctermfg=140 guibg=#cfc8f4 ctermbg=189 gui=NONE cterm=NONE
 hi PmenuSbar guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
@@ -58,9 +58,9 @@ hi Visual guifg=NONE ctermfg=NONE guibg=#eceafa ctermbg=255 gui=NONE cterm=NONE
 hi VisualNOS guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
 hi WarningMsg guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
 hi WildMenu guifg=#ff0000 ctermfg=9 guibg=#00ff00 ctermbg=10 gui=NONE cterm=NONE
-hi Comment guifg=#818181 ctermfg=254 gui=NONE cterm=NONE
+hi Comment guifg=#999999 ctermfg=254 gui=NONE cterm=NONE
 hi Constant guifg=#414141 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi String guifg=#414141 ctermfg=238 guibg=#f2edec ctermbg=255 gui=NONE cterm=NONE
+hi String guifg=#414141 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Character guifg=#414141 ctermfg=238 guibg=#f2edec ctermbg=255 gui=NONE cterm=NONE
 hi Boolean guifg=#ec57b4 ctermfg=205 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi Number guifg=#414141 ctermfg=238 guibg=#f2edec ctermbg=255 gui=NONE cterm=NONE
